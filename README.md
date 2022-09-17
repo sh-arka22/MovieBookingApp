@@ -325,4 +325,4 @@ Sample response body :
 ```
 
 ##### Incase of having any issues/doubts in running the API's or understanding the code.
-##### Please feel free to contact me : Arkajyoti55591@gmail.com
+##### Please feel free to contact me : arkajyotisaha891@gmail.com
